@@ -1,0 +1,23 @@
+{
+  "name": "envisioning-coding-for-non-coders",
+  "displayName": "Coding for Non-Coders",
+  "version": "0.1.0",
+  "description": "Envisioning's Coding for Non-Coders guide as a coach. It takes a person who does not code from an idea to a working prototype they build themselves by describing it to the AI, one small change at a time.",
+  "author": {
+    "name": "Envisioning",
+    "url": "https://www.envisioning.com"
+  },
+  "homepage": "https://www.envisioning.com/coding-for-non-coders",
+  "repository": "https://github.com/envisioning/coding-for-non-coders-skill",
+  "license": "MIT",
+  "keywords": [
+    "vibe coding",
+    "prototype",
+    "no-code",
+    "beginner",
+    "learn to code",
+    "coaching"
+  ],
+  "privacyPolicyUrl": "https://www.envisioning.com/agents#privacy",
+  "icon": ".claude-plugin/icon.png"
+}

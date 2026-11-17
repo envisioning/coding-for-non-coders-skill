@@ -1,0 +1,21 @@
+{
+  "name": "envisioning-cfnc",
+  "description": "Envisioning's Coding for Non-Coders skill.",
+  "owner": {
+    "name": "Envisioning",
+    "url": "https://www.envisioning.com"
+  },
+  "plugins": [
+    {
+      "name": "envisioning-coding-for-non-coders",
+      "source": "./",
+      "description": "A coach that takes a person who does not code from an idea to a working prototype, following Envisioning's Coding for Non-Coders guide.",
+      "category": "learning",
+      "tags": [
+        "vibe coding",
+        "prototype",
+        "beginner"
+      ]
+    }
+  ]
+}
