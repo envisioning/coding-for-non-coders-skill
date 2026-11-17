@@ -6,4 +6,4 @@ The skill text (`skills/` and every Markdown file) is published under Creative C
 
 The skill adapts Envisioning's open guide Coding for Non-Coders, https://www.envisioning.com/coding-for-non-coders.
 
-The icon in `.claude-plugin/icon.png` is the Envisioning mark. It is not covered by either license.
+The plugin icon is the Envisioning mark. Neither license covers it.
